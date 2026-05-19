@@ -1,0 +1,6 @@
+{
+  "name": "Contas a Pagar e Receber",
+  "description": "Sistema moderno e responsivo para controle de contas a pagar e receber, com simulador mobile interativo e exportador de código React Native Expo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
